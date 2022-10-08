@@ -13,5 +13,7 @@ public class Main {
         System.out.println(eOK);
         Employee e = new Employee(null);
         System.out.println(e);
+        Employee e1 = new Employee(null);
+        System.out.println(e1);
     }
 }
