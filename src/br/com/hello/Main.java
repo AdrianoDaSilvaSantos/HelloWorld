@@ -15,7 +15,6 @@ public class Main {
         System.out.println(e);
         Employee e1 = new Employee(null);
         System.out.println(e1);
-        Employee e2 = new Employee(null);
-        System.out.println(e2);
+
     }
 }
